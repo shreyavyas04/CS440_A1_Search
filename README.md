@@ -6,9 +6,9 @@ This repository contains our implementation for Assignment 1 in CS 440: Introduc
 
 ## Team Members
 
-- Shreya Vyas (218001583)  
-- Ridhima Biswas (225004913)  
-- Aditi Parekh (214002938)
+- Shreya Vyas 
+- Ridhima Biswas 
+- Aditi Parekh 
 
 ## Project Summary
 
